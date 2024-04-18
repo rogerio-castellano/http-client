@@ -1,4 +1,4 @@
 # HTTP client in Go
 
-This a simple example of a HTTP client developed in Go.
-As I am growing my skills in the language, certainly there is room for improvements, that I am going to implement as my knowledge improves.
+This is a basic example of an HTTP client created in Go. 
+As I continue to expand my proficiency in the language, I recognize there are opportunities for enhancement. I plan to incrementally refine this implementation as my understanding deepens.
